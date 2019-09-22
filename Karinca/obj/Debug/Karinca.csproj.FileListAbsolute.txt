@@ -8,3 +8,14 @@ c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\
 c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.exe
 c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.pdb
 C:\Users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.Form2.resources
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\bin\Debug\Karinca.exe.config
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\bin\Debug\Karinca.exe
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\bin\Debug\Karinca.pdb
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.csprojAssemblyReference.cache
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.Form1.resources
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.Form2.resources
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.Properties.Resources.resources
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.csproj.GenerateResource.cache
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.csproj.CoreCompileInputs.cache
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.exe
+C:\Users\enesc\Downloads\Karinca Uygulama\Karinca Uygulama\Karinca\obj\Debug\Karinca.pdb

@@ -337,15 +337,6 @@ namespace Karinca
                 }
         }
         
-        public void listeEkle()
-        {
-            Cinsler.Add("2");
-            Aylar.Add();
-            Saatler.Add();
-            Sehirler.Add();
-            Bilgiler.Add();
-            Linkler.Add();
-        }
         private void button2_Click_1(object sender, EventArgs e)
         {
             bool ayni = false;

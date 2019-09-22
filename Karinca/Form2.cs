@@ -120,45 +120,11 @@ namespace Karinca
         {
             if (txtBilgi.Text == "")
                 txtBilgi.Text = "En fazla 35 karakter";
-        //    else if (txtBilgi.Text.Length > 35)
-        //    {
-        //        if (!this.Controls.Contains(labelUyari))
-        //            labelEkle("En fazla 35 karakter!", txtBilgi);
-        //    }
-        //    else if (txtBilgi.Text.Length <= 35 && this.Controls.Contains(labelUyari))
-        //    {
-        //        txtBilgi.Top += 10;
-        //        this.Controls.Remove(labelUyari);
-        //    }   
+          
         }
 
 
-        //private void labelEkle(string metin, Control kontrol)
-        //{
-        //    kontrol.Top -= 10;
-
-        //    labelUyari.Top = kontrol.Top + kontrol.Height + 2;
-        //    labelUyari.Left = kontrol.Left;
-        //    labelUyari.Text = metin;
-        //    labelUyari.ForeColor = Color.Red;
-        //    labelUyari.Width = labelUyari.Text.Length * (int)labelUyari.Font.Size;
-            
-        //    this.Controls.Add(labelUyari);
-        //}
-
-
-        ////private void labelKaldir(Control kontrol)
-        //{
-        //    for(int i = this.Controls.Count-1;i>0;i--)
-        //    {
-        //        if (this.Controls[i].ToString().Contains("Label") && this.Controls[i].ToString().Contains("35"))
-        //        {
-        //            this.Controls.RemoveAt(i);
-        //            kontrol.Top += 10;
-        //            break;
-        //        }
-        //    }
-        //}
+        
 
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
         {

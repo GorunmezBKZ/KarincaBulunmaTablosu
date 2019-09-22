@@ -138,3 +138,4 @@ Camponotus spp, Haziran, 22:00, Topraklık/Denizli, 32 derece, http://www.karinc
 Camponotus spp, Temmuz, , Bursa, , http://www.karincaciftligim.com/index.php?/topic/816-camponotus-fellah/
 Cataglyphis Nodus, Temmuz, 14:00, Yenişehir/Bursa, 25 derece serin, http://www.karincaciftligim.com/index.php?/topic/808-cataglyphis-mevsimi-ba%C5%9Flam%C4%B1%C5%9F/
 Camponotus spp, Ağustos, 19:00, Antalya, 30 derece, http://www.karincaciftligim.com/index.php?/topic/962-%C3%A7iftlik-i%C3%A7in-ilk-ad%C4%B1m/
+zx, Ocak, 02:00, Adıyaman, 2, 2
