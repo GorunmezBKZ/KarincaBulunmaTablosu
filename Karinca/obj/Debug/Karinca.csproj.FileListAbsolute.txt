@@ -1,0 +1,10 @@
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\bin\Debug\Karinca.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\bin\Debug\Karinca.exe
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\bin\Debug\Karinca.pdb
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.Form1.resources
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.exe
+c:\users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.pdb
+C:\Users\casper\documents\visual studio 2015\Projects\Karinca\Karinca\obj\Debug\Karinca.Form2.resources
